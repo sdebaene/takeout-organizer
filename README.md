@@ -2,8 +2,7 @@
 
 A set of tools to help organize and process Google Takeout data. This project helps you:
 1. Extract and merge multiple Takeout archives
-2. Update metadata for photos and videos
-3. Organize your media files efficiently
+2. Update metadata for photos and videos using the json files provided by Google Takeout
 
 ## First Step: Extracting Takeout Archives
 
