@@ -1,4 +1,4 @@
-# Google Takeout Data Organizer
+# Google Takeout Extract Tgz files
 
 A set of tools to help organize and process Google Takeout data. This project helps you:
 1. Extract and merge multiple Takeout archives
